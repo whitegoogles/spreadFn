@@ -1,6 +1,6 @@
 {
   "name": "spread-function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Its spread for arrays and objects",
   "main": "spread.js",
   "scripts": {
@@ -13,5 +13,6 @@
     "code-stringify": "^1.2.3",
     "mocha": "^5.1.1"
   },
+  "homepage":"https://github.com/whitegoogles/spreadFn",
   "files":["spread.js"]
 }

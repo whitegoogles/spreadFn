@@ -1,7 +1,5 @@
 # Spread
 I got tired of having to upgrade node or write polyfills on random CI servers/docker images because node < `v8.2.1` didn't have object rest/spread properties. I also didn't want to have to install a transpiler just so I could use simple spread syntax. This is a generic polyfill that covers the array/object spread use cases with a function instead of the `...` operator.
-# Dependencies
-None
 # Installation
 `npm install --save spread-function`
 # Usage
