@@ -13,5 +13,5 @@
     "code-stringify": "^1.2.3",
     "mocha": "^5.1.1"
   },
-  files:["spread.js"]
+  "files":["spread.js"]
 }
