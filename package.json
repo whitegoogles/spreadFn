@@ -1,5 +1,5 @@
 {
-  "name": "spreadFn",
+  "name": "spread-function",
   "version": "1.0.0",
   "description": "Its spread for arrays and objects",
   "main": "spread.js",

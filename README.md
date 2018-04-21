@@ -3,10 +3,10 @@ I got tired of having to upgrade node or write polyfills on random CI servers/do
 # Dependencies
 None
 # Installation
-`npm install --save spreadFn`
+`npm install --save spread-function`
 # Usage
 ```javascript
-const spread = require('spreadFn');
+const spread = require('spread-function');
 
 spread([1,2],[3,4],5,6); //equivalent to [...[1,2],...[3,4],5,6]
 spread({a:"b"},{c:"d"}); //equivalent to {...{a:"b"},...{c:"d"}}
